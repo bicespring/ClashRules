@@ -1,0 +1,24 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# Windows 时区 dns
+# 域名后缀匹配
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,msftcomecttest.com
+DOMAIN-SUFFIX,dns.msftncsi.com
+DOMAIN-SUFFIX,ipv6.msftconnecttest.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,mirror
+DOMAIN-KEYWORD,ghp
+
+# Public Direct CDN 公共直连
+#DOMAIN-SUFFIX,ajax.aspnetcdn.com
+#DOMAIN-SUFFIX,ajax.cloudflare.com
+#DOMAIN-SUFFIX,cdnjs.cloudflare.com
+#DOMAIN-SUFFIX,code.jquery.com
+DOMAIN-SUFFIX,baomitu.com
+DOMAIN-SUFFIX,bootcss.com
+DOMAIN-SUFFIX,jiasule.com
+DOMAIN-SUFFIX,staticfile.org
+DOMAIN-SUFFIX,upaiyun.com
