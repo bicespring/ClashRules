@@ -1,16 +1,39 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+# GitHub 反代 CDN
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,github.boki.moe
+DOMAIN-SUFFIX,gh-proxy.com
+
 # Windows 时区 dns
-# 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
+
+# Windows 网络连接探测
 DOMAIN-SUFFIX,msftcomecttest.com
+DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
+
+# NTP Pool Project
+DOMAIN-SUFFIX,pool.ntp.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
+
+# DDNS
+DOMAIN-KEYWORD,synology
+DOMAIN-KEYWORD,quickconnect
+DOMAIN-SUFFIX,checkip.dyndns.org
+DOMAIN-SUFFIX,checkipv6.dyndns.org
+DOMAIN-SUFFIX,ifconfig.co
+DOMAIN-SUFFIX,api.myip.com
+# DOMAIN-SUFFIX,ip-api.com 会影响某些 DNS 泄露检测网站的结果，暂时屏蔽
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip6.seeip.org
+DOMAIN-SUFFIX,members.3322.org
+DOMAIN-SUFFIX,kit327.com
 
 # Bilibili
 DOMAIN-SUFFIX,acg.tv
@@ -41,3 +64,18 @@ DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
+
+# 国内 CDN
+DOMAIN-SUFFIX,cjjd19.com
+
+# FinalShell
+IP-CIDR,5.5.5.5/32,no-resolve
+
+# Emby 小雅 相关
+DOMAIN-SUFFIX,ddsrem.com
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ggbond.org
+DOMAIN-SUFFIX,nn.ci
+DOMAIN-SUFFIX,xhofe.top
+DOMAIN-SUFFIX,wwwh.eu.org
+DOMAIN-SUFFIX,1996999.xyz
