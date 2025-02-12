@@ -36,8 +36,12 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 
-# Copilot
+# Copilot & Bing
+# REPO：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Bing.list
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+
 
 # Gemini
 DOMAIN-SUFFIX,gemini.google.com
