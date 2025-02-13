@@ -1,8 +1,11 @@
 # 代理补充列表
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,bulianglin.com
-DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,raindrop.io
+
+# Notion
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notion.splunkcloud.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
