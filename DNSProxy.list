@@ -2,19 +2,19 @@
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,bulianglin.com
 
-# 国外DNS
-DOMAIN-SUFFIX,dot.sb
-DOMAIN-SUFFIX,dns.umbrella.com
-DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,doh.dns.sb
-DOMAIN-SUFFIX,doh.opendns.com
-DOMAIN-SUFFIX,hk-hkg.doh.sb
-DOMAIN-SUFFIX,api-ipv4.ip.sb
-
 # Windows推送通知服务（client.wns.windows.com）
 IP-CIDR,20.205.243.166/32,no-resolve
 IP-CIDR,20.205.243.168/32,no-resolve
 IP-CIDR,20.198.162.78/32,no-resolve
+
+# 国外DNS
+DOMAIN-SUFFIX,dot.sb
+DOMAIN-SUFFIX,dns.umbrella.com
+DOMAIN-SUFFIX,doh.dns.sb
+DOMAIN-SUFFIX,doh.opendns.com
+DOMAIN-SUFFIX,hk-hkg.doh.sb
+DOMAIN-SUFFIX,api-ipv4.ip.sb
+DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # Quad9 DNS
 DOMAIN-SUFFIX,dns.quad9.net
@@ -54,9 +54,60 @@ DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,browserscan.net
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,arin.net
+DOMAIN-SUFFIX,asiassn.com
 DOMAIN-SUFFIX,null-addr.com
 DOMAIN-SUFFIX,null-addr.net
 DOMAIN-SUFFIX,null-addr.org
 DOMAIN-SUFFIX,null-addr.biz
 DOMAIN-SUFFIX,null-addr.info
 DOMAIN-SUFFIX,addr.tools
+
+DOMAIN-SUFFIX,coincola.com
+DOMAIN-SUFFIX,coincolacdn.com
+DOMAIN-SUFFIX,colaotc.com
+
+
+
+# 其他
+DOMAIN-SUFFIX,polymarket.com
+DOMAIN-SUFFIX,cacapex.com
+DOMAIN-SUFFIX,1lib.sk
+DOMAIN-SUFFIX,6bcloud.top
+DOMAIN-SUFFIX,viptwo.top
+DOMAIN-SUFFIX,followme.com
+DOMAIN-SUFFIX,followme.ceo
+DOMAIN-SUFFIX,whatsmydns.me
+DOMAIN-SUFFIX,hostloc.net
+DOMAIN-SUFFIX,tmgm.com
+
+DOMAIN-SUFFIX,llgjc1.com
+DOMAIN-SUFFIX,polivera.ai
+DOMAIN-SUFFIX,asiassn.com
+DOMAIN-SUFFIX,mmcks.top
+DOMAIN-SUFFIX,needay.xyz
+DOMAIN-SUFFIX,mzzxuh.com
+DOMAIN-SUFFIX,lianjiasub.work
+DOMAIN-SUFFIX,muniucloud.pro
+DOMAIN-SUFFIX,kuajing.uk
+DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,xiaoxintv.cc
+DOMAIN-SUFFIX,69yun.top
+DOMAIN-SUFFIX,nivodi.com
+DOMAIN-SUFFIX,steamcommunity.com
+# DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,abcproxy.com
+DOMAIN-SUFFIX,piliapp.com
+DOMAIN-SUFFIX,meijutt.cc
+DOMAIN-SUFFIX,piaohua.com
+
+DOMAIN-SUFFIX,hsy88.org
+DOMAIN-SUFFIX,xn--mes358acgm99l.com
+
+DOMAIN-SUFFIX,stotik.com
+DOMAIN-SUFFIX,streetfighter.com
+DOMAIN-SUFFIX,capcom.com
+DOMAIN-SUFFIX,fcdn.sk
+DOMAIN-SUFFIX,kooink.com
+DOMAIN-SUFFIX,nodeseek.com
+
+DOMAIN-SUFFIX,kjfx.cc
