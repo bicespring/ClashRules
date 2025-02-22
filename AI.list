@@ -4,6 +4,7 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,grok
 
 # ChatGPT
 DOMAIN-SUFFIX,chatgpt.com
@@ -42,13 +43,15 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 
-
 # Gemini
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,makersuite.google.com
+
+# Grok
+DOMAIN-SUFFIX,x.ai
 
 # Meta AI
 DOMAIN-SUFFIX,meta.ai
