@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,x.ai
 
 # Meta AI
 DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,featureassets.org
 
 # Perplexity AI
 DOMAIN-SUFFIX,perplexity.ai
