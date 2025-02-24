@@ -1,5 +1,6 @@
 #SaaS移动营销分析和归因平台（类似国内的友盟）
 DOMAIN-SUFFIX,reqhfg-launches.appsflyersdk.com
+DOMAIN-SUFFIX,postHog.com
 
 #微软免费的埋点工具
 DOMAIN-SUFFIX,clarity.ms
