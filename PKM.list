@@ -34,5 +34,7 @@ DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,raindrop.io
 
 # 图床
-imgse.com
+DOMAIN-SUFFIX,imgse.com
 
+#设计工具
+DOMAIN-SUFFIX,studio.design
