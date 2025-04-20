@@ -5,6 +5,10 @@ DOMAIN-SUFFIX,postHog.com
 #微软免费的埋点工具
 DOMAIN-SUFFIX,clarity.ms
 
+#Adobe盗版验证
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobestats.io
+
 #美国在线广告技术公司
 DOMAIN-SUFFIX,rubiconproject.com
 #美国网络广告商
