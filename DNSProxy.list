@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,dns.umbrella.com
 DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,hk-hkg.doh.sb
-DOMAIN-SUFFIX,api-ipv4.ip.sb
+#DOMAIN-SUFFIX,api-ipv4.ip.sb
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # Quad9 DNS
