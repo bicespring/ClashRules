@@ -3,9 +3,9 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,bulianglin.com
 
 # Windows推送通知服务（client.wns.windows.com）
-#IP-CIDR,20.205.243.166/32,no-resolve
-#IP-CIDR,20.205.243.168/32,no-resolve
-#IP-CIDR,20.198.162.78/32,no-resolve
+IP-CIDR,20.205.243.166/32,no-resolve
+IP-CIDR,20.205.243.168/32,no-resolve
+IP-CIDR,20.198.162.78/32,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dot.sb
@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,dns.umbrella.com
 DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,hk-hkg.doh.sb
-#DOMAIN-SUFFIX,api-ipv4.ip.sb
+DOMAIN-SUFFIX,api-ipv4.ip.sb
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # Quad9 DNS
