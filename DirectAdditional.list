@@ -15,6 +15,12 @@ DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 
+# Windows推送通知服务（client.wns.windows.com）
+DOMAIN-SUFFIX,client.wns.windows.com
+IP-CIDR,20.205.243.166/32,no-resolve
+IP-CIDR,20.205.243.168/32,no-resolve
+IP-CIDR,20.198.162.78/32,no-resolve
+
 # NTP Pool Project
 DOMAIN-SUFFIX,pool.ntp.org
 
