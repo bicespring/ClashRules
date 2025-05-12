@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,www.notion.so
+#DOMAIN-SUFFIX,www.notion.so
 
 # Tana
 DOMAIN-SUFFIX,tana.inc
@@ -40,3 +40,5 @@ DOMAIN-SUFFIX,imgse.com
 # 设计工具
 DOMAIN-SUFFIX,studio.design
 DOMAIN-SUFFIX,studiodesignapp.com
+DOMAIN-SUFFIX,figma.com
+
