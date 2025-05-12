@@ -1,10 +1,13 @@
-# 国外AI OpenAi GoogleBard Anthropic claude
+# 国外AI OpenAi / GoogleBard / Anthropic / Claude
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,grok
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
+
 
 # ChatGPT
 DOMAIN-SUFFIX,chatgpt.com
@@ -32,6 +35,7 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,stripe.com
 
+DOMAIN-SUFFIX,sora.com
 
 # Claude
 DOMAIN-SUFFIX,anthropic.com
@@ -43,15 +47,32 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 
-# Gemini
-DOMAIN-SUFFIX,gemini.google.com
+# GoogleAI Gemini
+DOMAIN,ai.google.dev
+DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,deepmind.com
+
+# Cloudflare
+DOMAIN,gateway.ai.cloudflare.com
 
 # Grok
 DOMAIN-SUFFIX,x.ai
+
+# Groq
+DOMAIN-SUFFIX,groq.com
 
 # Meta AI
 DOMAIN-SUFFIX,meta.ai
@@ -64,18 +85,44 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN,guzzoni.smoot.apple.com
 
+# GitHub AI
+DOMAIN,api.github.com
+
+# Dify AI
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,difyai.com
+
 # 其他AI
+DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,circumlunar.space
 DOMAIN-SUFFIX,vulpes.one
 DOMAIN-SUFFIX,mozz.us
 DOMAIN-SUFFIX,conman.org
 DOMAIN-SUFFIX,bortzmeyer.org
-DOMAIN-SUFFIX,groq.com
-DOMAIN-SUFFIX,difyai.com
+DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,genspark.ai
 DOMAIN-SUFFIX,signalr.net
 
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,poe.com
+
+DOMAIN-SUFFIX,openart.ai
+
+# c站
 DOMAIN-SUFFIX,civitai.com
 
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,gstatic.com
+# ClipDrop
+DOMAIN-SUFFIX,clipdrop.co
+
+
+
+
+
+
+
+
+
+
+
+
+
