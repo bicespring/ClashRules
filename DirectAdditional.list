@@ -81,7 +81,7 @@ DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,cjjd19.com
 
 # FinalShell
-IP-CIDR,5.5.5.5/32,no-resolve
+#IP-CIDR,5.5.5.5/32,no-resolve
 
 # Emby 小雅 相关
 DOMAIN-SUFFIX,ddsrem.com
