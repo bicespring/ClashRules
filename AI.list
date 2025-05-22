@@ -65,10 +65,17 @@ DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,deepmind.com
 
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,signalr.net
+
 # Cloudflare
 DOMAIN,gateway.ai.cloudflare.com
 
 # Grok
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.ai
 
 # Groq
