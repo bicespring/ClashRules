@@ -62,6 +62,13 @@ DOMAIN-SUFFIX,bingworld.com
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,makersuite.google.com
+
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,generativelanguage
+DOMAIN-KEYWORD,.google
+DOMAIN-KEYWORD,google.
+
 DOMAIN-SUFFIX,ai.dev
 DOMAIN-SUFFIX,web.dev
 DOMAIN-SUFFIX,google.dev
@@ -75,7 +82,6 @@ DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
-
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 # DOMAIN-SUFFIX,googleapis.cn
@@ -83,11 +89,7 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
-DOMAIN-KEYWORD,colab
-DOMAIN-KEYWORD,developerprofiles
-DOMAIN-KEYWORD,generativelanguage
-DOMAIN-KEYWORD,.google
-DOMAIN-KEYWORD,google.
+
 
 # Cloudflare
 DOMAIN,gateway.ai.cloudflare.com
