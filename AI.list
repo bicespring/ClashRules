@@ -1,21 +1,11 @@
 # 国外AI OpenAi / GoogleBard / Anthropic / Claude
 
-# 域名关键字匹配
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,Claude
-DOMAIN-KEYWORD,grok
-DOMAIN-KEYWORD,openai
-
-#Apple-AI
-DOMAIN,apple-relay.apple.com
-DOMAIN,apple-relay.cloudflare.com
-
 # ChatGPT
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
 
 # Chat GPT API & CDN
+DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,cdn.oaistatic.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openaiapi-site.azureedge.net
@@ -40,8 +30,10 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,sora.com
 
 # Claude
-DOMAIN-SUFFIX,anthropic.com
+DOMAIN-KEYWORD,Claude
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-KEYWORD,anthropic
+DOMAIN-SUFFIX,anthropic.com
 
 # Copilot & Bing
 # REPO：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Bing.list
@@ -61,8 +53,7 @@ DOMAIN-SUFFIX,bingworld.com
 DOMAIN,gateway.ai.cloudflare.com
 
 # Grok
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,x.com
+DOMAIN-KEYWORD,grok
 DOMAIN-SUFFIX,x.ai
 
 # Groq
@@ -75,12 +66,15 @@ DOMAIN-SUFFIX,featureassets.org
 # Perplexity AI
 DOMAIN-SUFFIX,perplexity.ai
 
-# Siri
+# Apple-AI Siri
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN,guzzoni.smoot.apple.com
 
+
 # GitHub AI
-DOMAIN,api.github.com
+# DOMAIN,api.github.com
 
 # Dify AI
 DOMAIN-SUFFIX,dify.ai
