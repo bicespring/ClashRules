@@ -40,7 +40,7 @@ DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,browserleaks.net
 DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,browserscan.net
-DOMAIN-SUFFIX,ipify.org
+#DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,arin.net
 DOMAIN-SUFFIX,asiassn.com
 DOMAIN-SUFFIX,null-addr.com
