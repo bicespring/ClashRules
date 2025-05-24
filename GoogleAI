@@ -31,6 +31,10 @@ DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
 
+## Google DNS
+DOMAIN-SUFFIX,dns.google
+
+
 
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
