@@ -3,6 +3,13 @@ DOMAIN-SUFFIX,www.wanxiang.art,DIRECT
 DOMAIN-SUFFIX,immersivetranslate.cn,DIRECT
 DOMAIN-SUFFIX,infinitevision.tech,DIRECT
 
+
+## Google Play
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,clientservices.googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
 # GitHub 反代 CDN
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,github.boki.moe
