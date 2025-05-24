@@ -8,6 +8,9 @@ DOMAIN-KEYWORD,grok
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
 
+#Apple-AI
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
 
 # ChatGPT
 DOMAIN-SUFFIX,chatgpt.com
@@ -58,27 +61,32 @@ DOMAIN-SUFFIX,bingworld.com
 # https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Gemini/Gemini.list
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,ai.dev
+DOMAIN-SUFFIX,web.dev
+DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,stitch.withgoogle.com
 DOMAIN-SUFFIX,jules.google
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,googleapis.com
-#DOMAIN-SUFFIX,googleapis.cn
+# DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
+DOMAIN-KEYWORD,.google
+DOMAIN-KEYWORD,google.
 
 # Cloudflare
 DOMAIN,gateway.ai.cloudflare.com
