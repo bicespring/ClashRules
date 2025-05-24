@@ -13,12 +13,6 @@ DOMAIN-SUFFIX,xn--mes358acgm99l.com
 DOMAIN-KEYWORD,1e100
 DOMAIN-SUFFIX,dns.google
 
-## Google Play
-DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,clientservices.googleapis.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-
 ## Cloudflare DNS
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-dns.com
