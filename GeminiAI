@@ -1,5 +1,6 @@
 # GoogleAI Gemini
 # https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Gemini/Gemini.list
+
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,makersuite.google.com
