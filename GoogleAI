@@ -29,6 +29,9 @@ DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
 
+DOMAIN-SUFFIX,one.google.com
+DOMAIN-SUFFIX,accounts.google.com
+
 ## Google DNS
 ## DOMAIN-SUFFIX,dns.google
 
