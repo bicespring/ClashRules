@@ -11,9 +11,6 @@ DOMAIN-SUFFIX,xn--mes358acgm99l.com
 
 # 国外DNS
 
-## Google DNS
-DOMAIN-SUFFIX,dns.google
-
 ## Cloudflare DNS
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-dns.com
