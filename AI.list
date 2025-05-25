@@ -74,7 +74,7 @@ DOMAIN,guzzoni.smoot.apple.com
 
 
 # GitHub AI
-# DOMAIN,api.github.com
+DOMAIN,api.github.com
 
 # Dify AI
 DOMAIN-SUFFIX,dify.ai
