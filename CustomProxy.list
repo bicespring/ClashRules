@@ -28,6 +28,10 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # DNS泄露检测
+## OpenClash 首页 IP 地址探测
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipify.org
+
 DOMAIN-SUFFIX,ip111.cn
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ip-score.com
@@ -39,7 +43,7 @@ DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,browserleaks.net
 DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,browserscan.net
-#DOMAIN-SUFFIX,ipify.org
+
 DOMAIN-SUFFIX,arin.net
 DOMAIN-SUFFIX,asiassn.com
 DOMAIN-SUFFIX,null-addr.com
