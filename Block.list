@@ -1,13 +1,13 @@
-#SaaS移动营销分析和归因平台（类似国内的友盟）
-DOMAIN-SUFFIX,reqhfg-launches.appsflyersdk.com
-DOMAIN-SUFFIX,postHog.com
+#Adobe盗版验证
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobestats.io
 
 #微软免费的埋点工具
 DOMAIN-SUFFIX,clarity.ms
 
-#Adobe盗版验证
-DOMAIN-SUFFIX,adobe.io
-DOMAIN-SUFFIX,adobestats.io
+#SaaS移动营销分析和归因平台（类似国内的友盟）
+DOMAIN-SUFFIX,reqhfg-launches.appsflyersdk.com
+DOMAIN-SUFFIX,postHog.com
 
 #美国在线广告技术公司
 DOMAIN-SUFFIX,rubiconproject.com
