@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,immersivetranslate.com
 # 机场
 DOMAIN-SUFFIX,cloudlion.me
 DOMAIN-SUFFIX,xn--mes358acgm99l.com
+DOMAIN-SUFFIX,iiacyun.icu
+DOMAIN-SUFFIX,acyunzz.top
+DOMAIN-SUFFIX,acyund.top
 
 # 国外DNS
 
@@ -81,3 +84,4 @@ IP-CIDR,142.250.0.0/16,no-resolve
 #IP-CIDR,103.115.43.2/32,no-resolve
 #IP-CIDR,104.236.69.0/24,no-resolve
 #IP-CIDR,95.161.76.0/24,no-resolve
+
