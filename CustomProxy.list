@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,hp.com
 
 # 机场
 DOMAIN-SUFFIX,cloudlion.me
@@ -85,5 +86,6 @@ IP-CIDR,142.250.0.0/16,no-resolve
 #IP-CIDR,103.115.43.2/32,no-resolve
 #IP-CIDR,104.236.69.0/24,no-resolve
 #IP-CIDR,95.161.76.0/24,no-resolve
+
 
 
