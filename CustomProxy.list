@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,acyunzz.top
 DOMAIN-SUFFIX,acyund.top
 DOMAIN-SUFFIX,大机场.com
 DOMAIN-SUFFIX,bigairport-official-mirror-site6.xyz
+DOMAIN-SUFFIX,bigairport-officibid-cite6.website
 
 # 国外DNS
 
@@ -87,6 +88,7 @@ IP-CIDR,142.250.0.0/16,no-resolve
 #IP-CIDR,103.115.43.2/32,no-resolve
 #IP-CIDR,104.236.69.0/24,no-resolve
 #IP-CIDR,95.161.76.0/24,no-resolve
+
 
 
 
