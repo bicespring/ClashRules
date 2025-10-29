@@ -14,8 +14,6 @@ DOMAIN-SUFFIX,iiacyun.icu
 DOMAIN-SUFFIX,acyunzz.top
 DOMAIN-SUFFIX,acyund.top
 
-# 广告营销
-DOMAIN-SUFFIX,crisp.chat
 
 # 国外DNS
 
@@ -88,6 +86,7 @@ IP-CIDR,142.250.0.0/16,no-resolve
 #IP-CIDR,103.115.43.2/32,no-resolve
 #IP-CIDR,104.236.69.0/24,no-resolve
 #IP-CIDR,95.161.76.0/24,no-resolve
+
 
 
 
